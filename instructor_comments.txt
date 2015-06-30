@@ -1,0 +1,18 @@
+- index.html header
+	- This looks great overall, but I would recommend removing the padding from the navigation's ul and just 	floating the full nav to the right. The page you base the design off of is not full screen, but once the screen is made the same size, it shuold shift underneath the menu. After this is done you can add the appropriate space needed using padding.
+
+	- Default browser styles will cause the margin that is surrounding your full webpage. This can be removed using either something like normalize or if you just want to remove the margin, you can add margin:0; to the body.
+
+- index.html .container1
+	- No need to use a negative margin on this.
+	- great job with the spans for styling the specific words. No need to add margin-bottom to the second span as it is not doing anything.
+	- I would add some padding around the header as the text is real close to the bottom of the container.
+
+-index.html cta-container
+	 -Everything in this section is great, only thing I would modify is the cta-container's width. I would set the width to 100% so that the page is somewhat responsive.
+
+-developers.html .main
+	 - Once you remove the set height on this class, all of your developer sections will look great! I recommend never setting heights unless it is needed. Let your content fill the container.
+
+
+Great Work!
